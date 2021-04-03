@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 //this function complexity O(n)-(linear running time).
-// "       "    space complexity  O(1)-(constant running time).
+//      space complexity  O(1)-(constant running time).
 
 //linear_search function maybe - Worst case,Best case,Average case, 
 int linear_search(int A[], int n, int x)
